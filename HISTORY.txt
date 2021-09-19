@@ -1,0 +1,2 @@
+Decimal To Binary: 8794 => 10001001011010
+Decimal To Hexa Decimal: 8794 => 225A
